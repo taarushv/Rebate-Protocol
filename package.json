@@ -1,0 +1,25 @@
+{
+  "name": "rebate-protocol",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taarushv/Rebate-Protocol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taarushv/Rebate-Protocol/issues"
+  },
+  "homepage": "https://github.com/taarushv/Rebate-Protocol#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
