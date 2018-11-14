@@ -7,3 +7,16 @@ Rebate Protocol offers manufacturers a simple web interface to create QR code-ba
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_60646C566C40A0A48F3D9DB4F130495269BBF58E15C0FC15F75886E275BEA933_1542157322872_Untitled+Diagram.png)
 
 
+### TODOs
+
+
+| Status | Functionality |
+| ------ | ------ |
+| ✅ | Core smart contract
+| ✅ | Core Web3 + IPFS + Distribution functions |
+| 🔨 | Web Dashboard - React|
+| 🔨 | Mobile App - React-Native |
+| 🌱 | Meta Transactions |
+| 🌱 |  DAI Integration review|
+| 🌱 | Testing |
+
