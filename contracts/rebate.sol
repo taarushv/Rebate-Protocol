@@ -92,15 +92,3 @@ contract Rebate is Ownable{
         return count;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
